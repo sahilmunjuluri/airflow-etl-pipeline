@@ -23,3 +23,5 @@ Run the following commands in your terminal:
 airflow db init  # Set up the Airflow metadata database
 airflow scheduler &  # Start the scheduler to manage task execution
 airflow webserver -p 8080  # Launch the Airflow web interface
+airflow webserver -p 8080  # Launch the Airflow web interface
+
